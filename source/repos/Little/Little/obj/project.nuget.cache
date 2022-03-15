@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Z+iRMA35+b7zb3ZhtusENjEilYd77Gi9r00M/Q0xSXcOQltPOzatef1BJF3cDeZiC49WLXwnll6u3ABCU8FRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\source\\repos\\Little\\Little\\Little.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\nlog\\4.7.14\\nlog.4.7.14.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

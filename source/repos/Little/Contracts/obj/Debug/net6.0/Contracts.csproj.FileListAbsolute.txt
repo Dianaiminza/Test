@@ -1,0 +1,12 @@
+C:\Users\diana\source\repos\Little\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\diana\source\repos\Little\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\diana\source\repos\Little\Contracts\bin\Debug\net6.0\ref\Contracts.dll
+C:\Users\diana\source\repos\Little\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\diana\source\repos\Little\Contracts\obj\Debug\net6.0\Contracts.pdb
