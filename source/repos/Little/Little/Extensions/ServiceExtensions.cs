@@ -1,5 +1,6 @@
 ﻿using Contracts;
 using LoggerService;
+using Repository;
 
 namespace Little.Extensions
 {
@@ -19,6 +20,8 @@ namespace Little.Extensions
  });
         public static void ConfigureLoggerService(this IServiceCollection services) =>
  services.AddSingleton<ILoggerManager, LoggerManager>();
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+ services.AddScoped<IRepositoryManager, RepositoryManager>();
 
     }
 }

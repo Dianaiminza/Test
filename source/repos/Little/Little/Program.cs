@@ -9,6 +9,9 @@ LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(),
 
 builder.Services.ConfigureCors();
 builder.Services.ConfigureIISIntegration();
+builder.Services.ConfigureRepositoryManager();
+
+
 // Add services to the container.
 builder.Services.ConfigureLoggerService();
 builder.Services.AddControllers();
