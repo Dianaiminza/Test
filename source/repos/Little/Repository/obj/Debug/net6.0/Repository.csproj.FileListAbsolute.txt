@@ -15,3 +15,5 @@ C:\Users\diana\source\repos\Little\Repository\obj\Debug\net6.0\Repository.dll
 C:\Users\diana\source\repos\Little\Repository\obj\Debug\net6.0\ref\Repository.dll
 C:\Users\diana\source\repos\Little\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\diana\source\repos\Little\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\diana\source\repos\Little\Repository\bin\Debug\net6.0\Contracts.dll
+C:\Users\diana\source\repos\Little\Repository\bin\Debug\net6.0\Contracts.pdb

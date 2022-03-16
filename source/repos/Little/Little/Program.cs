@@ -10,11 +10,14 @@ LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(),
 builder.Services.ConfigureCors();
 builder.Services.ConfigureIISIntegration();
 builder.Services.ConfigureRepositoryManager();
+builder.Services.ConfigureServiceManager();
+builder.Services.ConfigureSqlContext(builder.Configuration);
 
 
 // Add services to the container.
 builder.Services.ConfigureLoggerService();
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+.AddApplicationPart(typeof(LittleEmployees.AssemblyReference).Assembly);
 
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
