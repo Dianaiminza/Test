@@ -74,6 +74,12 @@ namespace Vidly.Controllers
                 _dataRepository.Delete(employee);
                 return NoContent();
             }
+        
+        public IActionResult Index([FromServices] IDataRepository<Employee> _dataRepository)
+        {
+            IEnumerable<Employee> employees = _dataRepository.GetAll();
+            return Ok(employees);
         }
+    }
     
 }

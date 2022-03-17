@@ -25,6 +25,7 @@ namespace Vidly
             
             services.AddDbContext<RepositoryContext>(opts => opts.UseSqlServer(Configuration["ConnectionStrings:sqlConnection"]));
             services.AddScoped<IDataRepository<Employee>, EmployeeManager>();
+            services.AddTransient<BooksLookupService>();
             services.AddControllers();
         }
 

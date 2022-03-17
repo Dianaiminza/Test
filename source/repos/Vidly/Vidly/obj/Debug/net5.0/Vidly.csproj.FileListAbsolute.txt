@@ -83,3 +83,4 @@ C:\Users\diana\source\repos\Vidly\Vidly\obj\Debug\net5.0\Vidly.dll
 C:\Users\diana\source\repos\Vidly\Vidly\obj\Debug\net5.0\ref\Vidly.dll
 C:\Users\diana\source\repos\Vidly\Vidly\obj\Debug\net5.0\Vidly.pdb
 C:\Users\diana\source\repos\Vidly\Vidly\obj\Debug\net5.0\Vidly.genruntimeconfig.cache
+C:\Users\diana\source\repos\Vidly\Vidly\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
