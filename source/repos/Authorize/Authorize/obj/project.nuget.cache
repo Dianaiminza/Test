@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGzQd9rlZKlaWKMQYVlEer1zCa1n4V3reB4lOvkyA3SMiOWxgLd3h/Qy5RaM/LQpX1NkGuc/eNUCGgc+2BtihQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\source\\repos\\Authorize\\Authorize\\Authorize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
