@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dspXBpja10JahBY3kgEQosYDo2iiredjl20c9YWrR2WhKFtaawvsKFuaKSPCZszcmf+MmMLSGaf/M6N6RWWpGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\source\\repos\\RazorApp\\RazorApp\\RazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
