@@ -1,0 +1,12 @@
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.deps.json
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.dll
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\bin\Debug\net5.0\ref\Fibonacci.dll
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.pdb
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfo.cs
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.dll
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\ref\Fibonacci.dll
+C:\Users\diana\source\repos\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.pdb
